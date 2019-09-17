@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Demo app for Web container demonstrations",
   "main": "app.js",
-  "author": "Nigel Poulton <lichard.baliuag@greetify.co.nz>",
+  "author": "Lichard Baliuag <lichard.baliuag@greetify.co.nz>",
   "license": "Will be full of vulnerabilities!",
   "dependencies": {
     "express": "4.16.3",
